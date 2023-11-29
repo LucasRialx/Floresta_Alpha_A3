@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Floresta_Alpha_ATT.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
